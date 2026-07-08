@@ -30,6 +30,7 @@ Trying to understand why they exists.
 ## Blogpost
 
 <!-- BLOG-POST-LIST:START -->
+- [Building malloc from Scratch &lpar;Part 1&rpar;: Architecture &amp; Core Concepts](https://dev.to/rn-ops/building-malloc-from-scratch-part-1-architecture-core-concepts-3mfm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
