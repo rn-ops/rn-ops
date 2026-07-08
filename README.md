@@ -17,38 +17,38 @@ Trying to understand why they exists.
 
 ---
 
-Current direction
+## Current direction
 
-• Software Systems Programming
-• Backend
-• Networking
-• Security
-• Distributed Systems
+* Software Systems Programming
+* Backend
+* Networking
+* Security
+* Distributed Systems
 
 ---
 
-Blogpost
+## Blogpost
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-Languages
+## Languages
 
 Python, Java, C++, Rust, C
 
 ---
 
-Tools
+## Tools
 
 Linux, Git, Docker, PostgreSQL
 
 ---
 
-Elsewhere
+## Elsewhere
 
-[LinkedIn](https://linkedin.com/in/rn-ops)
-[Codeforces](https://codeforces.com/profile/rn-ops)
-[LeetCode](https://leetcode.com/u/0TSwdqxVsK/)
+[LinkedIn](https://linkedin.com/in/rn-ops) 
+[Codeforces](https://codeforces.com/profile/rn-ops) 
+[LeetCode](https://leetcode.com/u/0TSwdqxVsK/) 
 [DEV](https://dev.to/rn-ops)
