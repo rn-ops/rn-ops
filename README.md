@@ -1,8 +1,8 @@
 # Rajat Negi
 
-I don't enjoy writing CRUD. I enjoy understanding why things work.
+I enjoy understanding why things work.
 
-Currently spending most of my time learning what happens below the framework layer.
+Currently spending most of my time learning what happens below the layers of abstraction.
 
 ```
 Application
@@ -19,7 +19,7 @@ Trying to understand why they exists.
 
 Current direction
 
-• Systems Programming
+• Software Systems Programming
 • Backend
 • Networking
 • Security
@@ -27,31 +27,22 @@ Current direction
 
 ---
 
-Projects
+Blogpost
 
-→ Scrutiny
-Understanding repositories before touching them.
-
-→ Memory X-Ray
-Visualizing memory instead of pretending to understand it.
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
 Languages
 
-C
-C++
-Java
-Python
+Python, Java, C++, Rust, C
 
 ---
 
 Tools
 
-Linux
-Git
-Docker
-PostgreSQL
+Linux, Git, Docker, PostgreSQL
 
 ---
 
